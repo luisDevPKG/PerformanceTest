@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+
+# Config
+*.env
+*.local
+.settings/
+
+# Logs
+*.log
+
+# Locust reports
+reports/*.csv
+reports/*.html
+reports/*.json
+
+# IDEs
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
