@@ -18,6 +18,7 @@ env/
 *.log
 
 # Locust reports
+.reports/
 reports/*.csv
 reports/*.html
 reports/*.json
